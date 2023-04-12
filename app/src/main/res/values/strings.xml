@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weight Loss Tracker</string>
+    <string name="weight_input_text_field">Weight in pounds (decimal format only)</string>
+    <string name="add_new_weight">Add new weight</string>
+    <string name="update_new_weight">Update this entry</string>
+    <string name="update_weight_input_text_field">update your weight (decimal format only)</string>
+</resources>
